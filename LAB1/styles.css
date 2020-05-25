@@ -3,30 +3,41 @@ body, html {
     height: 100%;
 }
 
-.table {
-color: grey;
+table {
+    color: black;
+    background-color: aliceblue;
 
 }
 
 button {
 
-padding: 8px;
-text-align: center;
-cursor: pointer;
-font-size: 18px;
+    padding: 8px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 18px;
 }
-
-
 
 h1   {
     color: black;
     font-family: arial;
-        font-size: 100%;
+    font-size: 100%;
 
 }
 h2   {
     color: orange;
+    text-align: left;
     font-family: arial;
-        font-size: 150%;
+    font-size: 150%;
 
+}
+h3   {
+    color: orange;
+    text-align: center;
+    font-family: arial;
+    font-size: 150%;
+
+}
+
+signature{
+    text-align: right;
 }
